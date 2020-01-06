@@ -1,0 +1,12 @@
+{
+  "email": "s@gmail.com",
+  "password": "12345",
+  "zipCode": "123123",
+  "phoneNumber": "123123131",
+  "role": "USER",
+  "firstName": "Ilaya",
+  "lastName": "Medivi",
+  "country": "Russia",
+  "city": "Moskow",
+  "street": "Arbat, 3"
+}
